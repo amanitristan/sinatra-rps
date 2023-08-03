@@ -36,6 +36,8 @@ get("/paper") do
   end
 
  erb(:giraffe) 
+
+ 
 end
 
 get("/scissors") do
